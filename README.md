@@ -22,12 +22,6 @@ A full-featured Job Application Tracker built with **React + Firebase + MUI**, e
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here if you want – optional but recommended)
-
----
-
 ## 🔐 Features
 
 ✅ Google Login  
